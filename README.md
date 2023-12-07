@@ -1,3 +1,7 @@
+npm i
+npx prisma migrate dev --name init
+npm run dev
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
